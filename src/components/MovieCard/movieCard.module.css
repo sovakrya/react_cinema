@@ -1,0 +1,51 @@
+.cardBox {
+    display: flex;
+    gap: 16px;
+    background-color: #FFFFFF;
+    padding: 24px;
+    border-radius: 8px;
+  }
+  
+  .movieCardInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    flex-grow: 1;
+
+  }
+  
+  .movieCardName {
+    font: Roboto;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+  }
+  
+  .movieCardGenre {
+    font: Roboto;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    font-style: italic;
+  }
+  
+  .ticketBox {
+    display: flex;
+    align-self: flex-start;
+    gap: 8px;
+  }
+  
+  .buttonTicket {
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 4px;
+    padding: 4px;
+    background-color: #FF5500;
+    color:#FFFFFF
+  }
+
+  .poster {
+    border-radius: 8px;
+  }
+  

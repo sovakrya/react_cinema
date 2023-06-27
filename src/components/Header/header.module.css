@@ -1,0 +1,23 @@
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    height: 84px;
+    padding: 24px 32px 24px 32px;
+    background-color: #333333;
+    color: white;
+  }
+  
+  .header{
+    font-size: 20px ;
+    font-weight: 400;
+    line-height: 23px;
+  
+  }
+
+  .basket {
+    border: none;
+    background-color: transparent;
+    width: 28px;
+    height: 25px;
+    margin: 2px 2px;
+  }
